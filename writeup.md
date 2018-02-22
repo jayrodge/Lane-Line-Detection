@@ -14,7 +14,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/output_whiteCarLaneSwitch.jpg "Output"
+[image1]: /test_images_output/output_whiteCarLaneSwitch.jpg "Output"
 
 ---
 
